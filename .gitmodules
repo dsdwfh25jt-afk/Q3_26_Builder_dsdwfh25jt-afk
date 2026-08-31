@@ -4,3 +4,6 @@
 [submodule "spl-nft-q326"]
 	path = spl-nft-q326
 	url = https://github.com/dsdwfh25jt-afk/spl-nft-q326.git
+[submodule "Guessing-Game"]
+	path = Guessing-Game
+	url = https://github.com/dsdwfh25jt-afk/Guessing-Game.git
