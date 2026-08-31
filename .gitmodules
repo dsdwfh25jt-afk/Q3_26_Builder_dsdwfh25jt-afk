@@ -1,3 +1,6 @@
 [submodule "pre-req-vault"]
 	path = pre-req-vault
 	url = https://github.com/dsdwfh25jt-afk/pre-req-vault.git
+[submodule "spl-nft-q326"]
+	path = spl-nft-q326
+	url = https://github.com/dsdwfh25jt-afk/spl-nft-q326.git
