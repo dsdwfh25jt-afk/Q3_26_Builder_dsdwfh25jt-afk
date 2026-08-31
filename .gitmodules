@@ -1,0 +1,3 @@
+[submodule "pre-req-vault"]
+	path = pre-req-vault
+	url = https://github.com/dsdwfh25jt-afk/pre-req-vault.git
